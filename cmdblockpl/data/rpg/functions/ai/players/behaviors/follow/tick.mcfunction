@@ -1,0 +1,1 @@
+execute as @e[tag=imposter,tag=AI,scores={playerAiState=1000..1999}] at @s run function rpg:ai/players/behaviors/follow/tick_imposter

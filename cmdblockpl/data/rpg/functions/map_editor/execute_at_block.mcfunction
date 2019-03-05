@@ -1,0 +1,1 @@
+execute positioned ~ ~1.5 ~ run function rpg:map_editor/execute_at_block_loop

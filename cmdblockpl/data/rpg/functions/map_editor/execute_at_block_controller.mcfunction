@@ -1,0 +1,1 @@
+execute if score @s actionSelector matches 1..1 run function rpg:map_editor/build_barrier 

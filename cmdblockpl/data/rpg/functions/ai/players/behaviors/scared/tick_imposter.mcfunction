@@ -1,0 +1,2 @@
+execute if entity @s[scores={playerAiState=4000..4099}] run function rpg:ai/players/behaviors/scared/escape
+execute if entity @s[scores={playerAiState=4100..4199}] run function rpg:ai/players/behaviors/scared/escape_corner

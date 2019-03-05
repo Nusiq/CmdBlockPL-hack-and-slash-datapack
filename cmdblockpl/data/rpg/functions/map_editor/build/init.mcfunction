@@ -1,0 +1,2 @@
+scoreboard objectives add brush_size dummy
+scoreboard objectives add brush_zshift minecraft.custom:minecraft.sneak_time

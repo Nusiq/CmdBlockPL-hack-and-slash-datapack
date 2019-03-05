@@ -1,0 +1,1 @@
+execute at @s positioned ^ ^0.5 ^3 if entity @e[tag=imposter,distance=0.4..0.5] at @s run function rpg:ai/mobs/leaper/leap

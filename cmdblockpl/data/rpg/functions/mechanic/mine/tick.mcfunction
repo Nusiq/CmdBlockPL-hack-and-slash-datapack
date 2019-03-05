@@ -1,0 +1,1 @@
+execute at @s positioned ~ ~1 ~ if entity @e[tag=enemy,distance=..0.5] run function rpg:mechanic/mine/explode

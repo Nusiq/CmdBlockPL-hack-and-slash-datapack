@@ -1,0 +1,3 @@
+execute unless entity @e[tag=hitdetection3] at @e[tag=player3] run summon villager ~ ~-6 ~ {Attributes:[{Name:generic.maxHealth,Base:100}],Health:100.0f,Tags:["hitdetection3","hitdetection","hitdetection_init"],Age:-2000000000,IsBaby:1b,NoAI:1b,Silent:1b,ActiveEffects:[{Id:14,Amplifier:0,Duration:20000000,ShowParticles:0b}]} 
+scoreboard players set @e[tag=hitdetection_init] health 100
+tag @e[tag=hitdetection_init] remove hitdetection_init

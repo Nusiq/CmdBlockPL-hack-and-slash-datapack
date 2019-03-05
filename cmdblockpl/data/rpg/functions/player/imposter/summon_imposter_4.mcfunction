@@ -1,0 +1,2 @@
+execute unless entity @e[tag=imposter4] at @e[tag=player4] run summon zombie_villager ~ ~-6 ~ {CustomName:"{\"translate\":\"Bard\"}",CustomNameVisible:1b,Tags:["imposter4","imposter"],Profession:4,Invulnerable:1,Age:-2000000000,IsBaby:1b,NoAI:1b,Silent:1b}
+scoreboard players set @e[tag=imposter4] imposterID 4
