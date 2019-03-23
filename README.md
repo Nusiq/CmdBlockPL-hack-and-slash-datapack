@@ -10,7 +10,7 @@ Celem projektu jest utworzenie gry hack & slash z widokiem z góry i prostą fau
 W grę będzie mogło grać od 1 do 4 graczy. Drużyna sterowana przez graczy składa się z czterech postaci - barda, strzelac, paladyna oraz maga. Gracze w dowolnym momencie rozgrywki mają możliwość zmiany postaci, którą sterują. Jeśli w grze nie ma wystarczającej liczby graczy by kontrolować wszystkie postacie naraz, ich sterowaniem zajmie się komputer.  
 
 # Zasoby oraz dokumentacja
-- Dokumentacja projektu będzie udostępniana na Wiki tego repozytorium na GitHub.
+- Dokumentacja projektu będzie udostępniana na Wiki tego repozytorium na GitHub. https://github.com/Nusiq/CmdBlockPL-hack-and-slash-datapack/wiki
 - Najnowsze wersje mapy będą dostępne tutaj: https://www.mediafire.com/folder/c3izikxbbn555/releases
 - Filmiki z początkowej fazy pracy nad projektem można znaleźć na tym kanale na youtube: https://www.youtube.com/user/ZagrajmyzPszemkiem
 
